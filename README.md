@@ -94,6 +94,8 @@ _Теория тестирования пройдена успешно._
 
 **[SQL](https://drive.google.com/drive/folders/17G88Ka7Dk5BwR5Wagno3tJ7qEfvGthrs?usp=sharing)** (PostgreSQL)
 
+**[Логи](https://drive.google.com/drive/folders/1H-iscqFSlq16c6Pnp5E1xhhBfhJcfv2C?usp=sharing)** (Kibana)
+
 _____________
 
 
