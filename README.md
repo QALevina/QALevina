@@ -96,6 +96,8 @@ _Теория тестирования пройдена успешно._
 
 **[Логи](https://drive.google.com/drive/folders/1H-iscqFSlq16c6Pnp5E1xhhBfhJcfv2C?usp=sharing)** (Kibana)
 
+**[Консоль Linux](https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing)** 
+
 _____________
 
 
