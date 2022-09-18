@@ -86,10 +86,14 @@ _Меня зовут Елена и я рада, что Вы заглянули �
 
 **[Консоль Linux](https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing)** 
  
-   <table>
+  <br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" />
+
+
+<table>
 <tr>
-    <td><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Чек лист</a>     (личный кабинет)</td>
+    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
+    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Чек лист</a>     (личный кабинет)</td>
+   <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Тест-кейсы</a>     (восстановление пароля)</td>
 </tr>
 <tr>
     <td><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
