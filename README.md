@@ -68,37 +68,31 @@ _Меня зовут Елена и я рада, что Вы заглянули �
 ## Ниже можно посмотреть мои практические работы:
 
 <table>
-<tr>
-    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a><br/><br/></td>
-    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Чек лист</a>     (личный кабинет)<br/><br/></td>
-   <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Тест-кейсы</a>     (восстановление пароля)<br/><br/></td>
+    <tr>
+    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/17G88Ka7Dk5BwR5Wagno3tJ7qEfvGthrs?usp=sharing">Java</a>     (Циклы, массивы)<br/><br/></td>
+ <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1H-iscqFSlq16c6Pnp5E1xhhBfhJcfv2C?usp=sharing">Java</a>     (Maven, JaCoCo)<br/><br/></td>
+ <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing">Java</a>     (API, JSON)<br/><br/></td>
+</tr>
+    <tr>
+    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/17G88Ka7Dk5BwR5Wagno3tJ7qEfvGthrs?usp=sharing">SQL</a>     (PostgreSQL)<br/><br/></td>
+ <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1H-iscqFSlq16c6Pnp5E1xhhBfhJcfv2C?usp=sharing">Логи</a>     (Kibana)<br/><br/></td>
+ <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing">Консоль Linux</a><br/><br/></td>
 </tr>
 <tr>
     <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1bI9Raa8ad0Y6L5ixELaE-P9bkMv2vkmj?usp=sharing">Баг-репорты</a>     (в Excel)<br/><br/></td>
  <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1v0gIPCaY6Qp8p5rtas8ZDgsWs26HWYv8?usp=sharing">DevTools</a><br/><br/></td>
  <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1xYTAAZVNzvnLAbqxxMbqB6RALpleNIia?usp=sharing">Jmeter</a><br/><br/></td>
 </tr>
- <tr>
-    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/17G88Ka7Dk5BwR5Wagno3tJ7qEfvGthrs?usp=sharing">SQL</a>     (PostgreSQL)<br/><br/></td>
- <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1H-iscqFSlq16c6Pnp5E1xhhBfhJcfv2C?usp=sharing">Логи</a>     (Kibana)<br/><br/></td>
- <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing">Консоль Linux</a><br/><br/></td>
+
+<tr>
+    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a><br/><br/></td>
+    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Чек лист</a>     (личный кабинет)<br/><br/></td>
+   <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Тест-кейсы</a>     (восстановление пароля)<br/><br/></td>
 </tr>
 </table>
 
 
 _____________
-
-
-### 🌱В процессе изучения🌱
-
-
-
-https://github.com/QALevina/DZ-7.1.git <br />
-https://github.com/QALevina/DZ-8.1.git <br />
-https://github.com/QALevina/DZ_9.1.git <br />
-
-
-<br /><br />
 
 
 ### <b>Сертификаты</b>
