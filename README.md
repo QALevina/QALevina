@@ -69,9 +69,9 @@ _Меня зовут Елена и я рада, что Вы заглянули �
 
 <table>
     <tr>
-    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/17G88Ka7Dk5BwR5Wagno3tJ7qEfvGthrs?usp=sharing">Java</a>     (Циклы, массивы)<br/><br/></td>
- <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1H-iscqFSlq16c6Pnp5E1xhhBfhJcfv2C?usp=sharing">Java</a>     (Maven, JaCoCo)<br/><br/></td>
- <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing">Java</a>     (API, JSON)<br/><br/></td>
+    <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://github.com/QALevina/DZ-7.1.git">Java</a>     (Циклы, массивы)<br/><br/></td>
+ <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://github.com/QALevina/DZ-8.1.git">Java</a>     (Maven, JaCoCo)<br/><br/></td>
+ <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://github.com/QALevina/DZ_9.1.git">Java</a>     (API, JSON)<br/><br/></td>
 </tr>
     <tr>
     <td><br><img align="left" alt="OK" width="33px" src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true" /><a href="https://drive.google.com/drive/folders/17G88Ka7Dk5BwR5Wagno3tJ7qEfvGthrs?usp=sharing">SQL</a>     (PostgreSQL)<br/><br/></td>
