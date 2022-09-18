@@ -3,14 +3,13 @@
 _Меня зовут Елена и я рада, что Вы заглянули на мою страницу)_
 <br />
 
-### В данный момент  **нахожусь в поиске коммерческого опыта в сфере QA.**
+## В данный момент  **нахожусь в поиске интересной работы в сфере QA.**
 
 👯Буду рада предложениям стажировки или постоянной работы.👯
 
-_Я заканчиваю онлайн обучение тестированию в Нетологии (изучаю автоматизацию на Java)._ 
+### Я заканчиваю онлайн обучение тестированию в Нетологии 
+### (изучаю автоматизацию на Java).
 
-
-_Теория тестирования пройдена успешно._
 
 ***
 
@@ -23,33 +22,38 @@ _Теория тестирования пройдена успешно._
 <img align="left" alt="MVN" height="77px" src="https://avatars.mds.yandex.net/i?id=80b63883cea03788b521e34407999e98_sr-4321889-images-thumbs&n=13" />
 <img align="left" alt="Gradle" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1738/Gradle.jpg" />
 <img align="left" alt="JUNIT5" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1739/junit5-logo.png" />
-<img align="left" alt="Selenium" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1202/big-logo.png" />
-<img align="left" alt="Selenide" height="77px" src="https://miro.medium.com/max/846/1*_HsEkNr93MvVVzkrzKppGA.png" />
-<img align="left" alt="HTML" height="77px" src="https://avatars.mds.yandex.net/i?id=a334dba42d1e607f8e8bae219528438c-5501353-images-thumbs&n=13" />
+<img align="left" alt="linux" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <br />
 <br />
 <br />
 <p><br /><br />
+<img align="left" alt="Selenium" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1202/big-logo.png" />
+<img align="left" alt="Selenide" height="77px" src="https://miro.medium.com/max/846/1*_HsEkNr93MvVVzkrzKppGA.png" />
+<img align="left" alt="HTML" height="77px" src="https://avatars.mds.yandex.net/i?id=a334dba42d1e607f8e8bae219528438c-5501353-images-thumbs&n=13" />
 <img align="left" alt="git" height="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" height="77px" src="https://avatars.mds.yandex.net/i?id=a92cb9edcadde647f37c05c658d613e4-5252146-images-thumbs&n=13" />
+<img align="left" alt="bash" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /> 
+<br />
+<br />
+<br />
+<p><br /><br />
 <img align="left" alt="devtols" height="77px" src="https://blog-cdn.domaincer.com/blog/wp-content/uploads/2021/07/24091619/images-3.png" />
 <img align="left" alt="jira" width="77px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="sql" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="postgresql" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MySQL" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Rest API" width="77px" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />
- <br />
- <br />
- <br />
+<img align="left" alt="DOCKER" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> 
+<br />
+<br />
+<br />
 <p><br /><br />
+<img align="left" alt="Rest API" width="77px" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />
 <img align="left" alt="Postman" width="77px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
 <img align="left" alt="JSON" width="77px" src="https://avatars.mds.yandex.net/i?id=cbf6ee16117fcbeffb110b3f9217e96f-6208942-images-thumbs&n=13" />
 <img align="left" alt="HML" width="77px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
 <img align="left" alt="jmeter" width="77px" src="https://jmeter.apache.org/images/jmeter_square.png" />
-<img align="left" alt="linux" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="bash" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<img align="left" alt="Kibana" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" />
-<img align="left" alt="DOCKER" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Kibana" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" /> 
+
 <br />
 
 <p><br />
@@ -65,7 +69,7 @@ _Теория тестирования пройдена успешно._
 
 
 **[Работа с требованиями](https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true)**
-
+ 
 **[Чек лист](https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true)** (личный кабинет)
 
 **[Тест-кейсы](https://docs.google.com/spreadsheets/d/18tr13wTbGDcKcxoQ4I1JvzSpr1zjUiez/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true)** (восстановление пароля)
@@ -81,6 +85,17 @@ _Теория тестирования пройдена успешно._
 **[Логи](https://drive.google.com/drive/folders/1H-iscqFSlq16c6Pnp5E1xhhBfhJcfv2C?usp=sharing)** (Kibana)
 
 **[Консоль Linux](https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing)** 
+ 
+   <table>
+<tr>
+    <td><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Чек лист</a>     (личный кабинет)</td>
+</tr>
+<tr>
+    <td><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
+    <td><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
+</tr>
+</table>
 
 _____________
 
@@ -98,14 +113,20 @@ https://github.com/QALevina/DZ_9.1.git <br />
 
 
 ### <b>Сертификаты</b>
+
   
-<img align="left" alt="Ручное_тестирование_web" height="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />
-
-![Ручное тестирование web](https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png)
-
-![Основы SQL](https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg)
-
-![Системы менеджмента качества](https://github.com/QALevina/QALevina/blob/main/img/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.jpg)
+<img align="left" alt="Ручное_тестирование_web" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />
+ 
+<img align="left" alt="JAVA" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/Java.png" />  
+ 
+<img align="left" alt="Основы SQL" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg" />
+ 
+<img align="left" alt="Основы GIT" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/Git.png" />
+  
+  <p><br/>
+ 
+<img align="left" alt="Системы менеджмента качества" width="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.jpg" />
+   
 
 
 <!--
