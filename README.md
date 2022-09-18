@@ -86,7 +86,16 @@ _Меня зовут Елена и я рада, что Вы заглянули �
 
 **[Консоль Linux](https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing)** 
  
-
+   <table>
+<tr>
+    <td><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1n5rcNaPFr6Ps6QJ7EC3KZb5ocDxBpMaW/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Чек лист</a>     (личный кабинет)</td>
+</tr>
+<tr>
+    <td><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
+    <td><a href="https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true">Работа с требованиями</a></td>
+</tr>
+</table>
 
 _____________
 
@@ -117,6 +126,7 @@ https://github.com/QALevina/DZ_9.1.git <br />
   <p><br/>
  
 <img align="left" alt="Системы менеджмента качества" width="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.jpg" />
+   
 
 
 <!--
