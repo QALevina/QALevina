@@ -17,65 +17,49 @@ _Теория тестирования пройдена успешно._
 ✨МОИ НАВЫКИ✨<br />
 ----------
 
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img align="left" alt="git" width="77px" src="https://avatars.githubusercontent.com/u/33149672?s=200&v=4" />][DevTools]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GIT]
-[<img align="left" alt="git" width="77px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />][jira]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
-[<img align="left" alt="git" width="77px" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />][Rest API]
 
+<img align="left" alt="JAVA" width="77px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img align="left" alt="IDEA" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1741/IDEA.png" />
+<img align="left" alt="MVN" height="77px" src="https://avatars.mds.yandex.net/i?id=80b63883cea03788b521e34407999e98_sr-4321889-images-thumbs&n=13" />
+<img align="left" alt="Gradle" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1738/Gradle.jpg" />
+<img align="left" alt="JUNIT5" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1739/junit5-logo.png" />
+<img align="left" alt="Selenium" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1202/big-logo.png" />
+<img align="left" alt="Selenide" height="77px" src="https://miro.medium.com/max/846/1*_HsEkNr93MvVVzkrzKppGA.png" />
+<img align="left" alt="HTML" height="77px" src="https://avatars.mds.yandex.net/i?id=a334dba42d1e607f8e8bae219528438c-5501353-images-thumbs&n=13" />
 <br />
 <br />
 <br />
-<br />
-<br />
-
-[<img align="left" alt="git" width="77px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />][Postman]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][JSON]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][HML]
-[<img align="left" alt="git" width="77px" src="https://jmeter.apache.org/images/jmeter_square.png" />][jmeter]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][LINUX]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][BASH]
-[<img align="left" alt="git" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" />][Kibana]
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][DOCKER]
-
-
-[GIT]:https://git-scm.com
-[BASH]:https://www.gnu.org/software/bash
-[CSS]:https://www.w3schools.com/css/
-[DOCKER]:https://www.docker.com/
-[HTML]:https://www.w3schools.com/html/
-[JAVA]:https://www.java.com/ru/
-[JSON]:https://www.json.org/json-en.html
-[LINUX]:https://www.linux.org/
-[MySQL]:https://www.mysql.com/
-[postgresql]:https://www.postgresql.org/
-[SQL]:https://www.w3schools.com/sql/
-[HML]:https://en.wikipedia.org/wiki/HML
-[DevTools]:https://developer.chrome.com/docs/devtools/
-[Kibana]:https://www.elastic.co/downloads/kibana
-[Rest API]:https://docs.github.com/en/rest
-[Postman]:https://www.postman.com/
-[jmeter]:https://jmeter.apache.org/
-[jira]:https://www.atlassian.com/software/jira
-
-
-<br />
-<br />
+<p><br /><br />
+<img align="left" alt="git" height="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="github" height="77px" src="https://avatars.mds.yandex.net/i?id=a92cb9edcadde647f37c05c658d613e4-5252146-images-thumbs&n=13" />
+<img align="left" alt="devtols" height="77px" src="https://blog-cdn.domaincer.com/blog/wp-content/uploads/2021/07/24091619/images-3.png" />
+<img align="left" alt="jira" width="77px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+<img align="left" alt="sql" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="postgresql" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="MySQL" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Rest API" width="77px" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />
+ <br />
+ <br />
+ <br />
+<p><br /><br />
+<img align="left" alt="Postman" width="77px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
+<img align="left" alt="JSON" width="77px" src="https://avatars.mds.yandex.net/i?id=cbf6ee16117fcbeffb110b3f9217e96f-6208942-images-thumbs&n=13" />
+<img align="left" alt="HML" width="77px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
+<img align="left" alt="jmeter" width="77px" src="https://jmeter.apache.org/images/jmeter_square.png" />
+<img align="left" alt="linux" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="bash" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+<img align="left" alt="Kibana" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" />
+<img align="left" alt="DOCKER" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br />
 
+<p><br />
 
 ***
-
-<br />
 
 ### Увлечена тестированием, хочу развиваться в профессии, готова к сложным задачам и поискам решений.
 
 <br />
-<br />
+
 
 ## Ниже можно посмотреть мои практические работы:
 
@@ -104,7 +88,6 @@ _____________
 ### 🌱В процессе изучения🌱
 
 
-[<img align="left" alt="git" width="77px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][JAVA]
 
 https://github.com/QALevina/DZ-7.1.git <br />
 https://github.com/QALevina/DZ-8.1.git <br />
@@ -115,6 +98,8 @@ https://github.com/QALevina/DZ_9.1.git <br />
 
 
 ### <b>Сертификаты</b>
+  
+<img align="left" alt="Ручное_тестирование_web" height="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />
 
 ![Ручное тестирование web](https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png)
 
