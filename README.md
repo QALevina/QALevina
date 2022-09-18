@@ -1,48 +1,67 @@
 Добрый день! 
 --------
 _Меня зовут Елена и я рада, что Вы заглянули на мою страницу)_
--------------------------------------------
-В данный момент я **в поиске коммерческого опыта в сфере QA.**
+<br />
+
+### В данный момент  **нахожусь в поиске коммерческого опыта в сфере QA.**
 
 👯Буду рада предложениям стажировки или постоянной работы.👯
-***
 
-Я заканчиваю онлайн обучение тестированию в Нетологии (изучаю автоматизацию на Java). 
-
-✨Теория тестирования пройдена успешно.✨
-
-**На курсе также освоены:**
-
-- Git, 
-- Jira, 
-- Postman, 
-- Jmeter, 
-- DevTools
+_Я заканчиваю онлайн обучение тестированию в Нетологии (изучаю автоматизацию на Java)._ 
 
 
-<b>Сертификаты</b>
-
-![Ручное тестирование web](https://drive.google.com/file/d/1m1Tcde5kSFYW15OSaIIX2sdS0LkXcXAu/view?usp=sharing)
-
-![Основы SQL](https://drive.google.com/file/d/1Kw9f5lsNWhv7OCy9LVxg_tYS7Nb93mB1/view?usp=sharing)
-
-![Системы менеджмента качества](https://drive.google.com/file/d/1U9tasx04zNLhBeavKju_yVJOw8Ca-Rhl/view?usp=sharing)
+_Теория тестирования пройдена успешно._
 
 ***
 
-🌱**Самостоятельно освоила основы**
-* SQL, 
-* REST API, 
-* Kibana,
-* терминал Linux, 
-* HTML, 
-* CSS,
-* JS
+✨МОИ НАВЫКИ✨<br />
+----------
+
+
+<img align="left" alt="JAVA" width="77px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img align="left" alt="IDEA" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1741/IDEA.png" />
+<img align="left" alt="MVN" height="77px" src="https://avatars.mds.yandex.net/i?id=80b63883cea03788b521e34407999e98_sr-4321889-images-thumbs&n=13" />
+<img align="left" alt="Gradle" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1738/Gradle.jpg" />
+<img align="left" alt="JUNIT5" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1739/junit5-logo.png" />
+<img align="left" alt="Selenium" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1202/big-logo.png" />
+<img align="left" alt="Selenide" height="77px" src="https://miro.medium.com/max/846/1*_HsEkNr93MvVVzkrzKppGA.png" />
+<img align="left" alt="HTML" height="77px" src="https://avatars.mds.yandex.net/i?id=a334dba42d1e607f8e8bae219528438c-5501353-images-thumbs&n=13" />
+<br />
+<br />
+<br />
+<p><br /><br />
+<img align="left" alt="git" height="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="github" height="77px" src="https://avatars.mds.yandex.net/i?id=a92cb9edcadde647f37c05c658d613e4-5252146-images-thumbs&n=13" />
+<img align="left" alt="devtols" height="77px" src="https://blog-cdn.domaincer.com/blog/wp-content/uploads/2021/07/24091619/images-3.png" />
+<img align="left" alt="jira" width="77px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+<img align="left" alt="sql" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="postgresql" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="MySQL" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Rest API" width="77px" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />
+ <br />
+ <br />
+ <br />
+<p><br /><br />
+<img align="left" alt="Postman" width="77px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
+<img align="left" alt="JSON" width="77px" src="https://avatars.mds.yandex.net/i?id=cbf6ee16117fcbeffb110b3f9217e96f-6208942-images-thumbs&n=13" />
+<img align="left" alt="HML" width="77px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
+<img align="left" alt="jmeter" width="77px" src="https://jmeter.apache.org/images/jmeter_square.png" />
+<img align="left" alt="linux" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="bash" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+<img align="left" alt="Kibana" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" />
+<img align="left" alt="DOCKER" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<br />
+
+<p><br />
+
 ***
 
 ### Увлечена тестированием, хочу развиваться в профессии, готова к сложным задачам и поискам решений.
 
-## Ниже можно посмотреть, чем я владею на данный момент:
+<br />
+
+
+## Ниже можно посмотреть мои практические работы:
 
 
 **[Работа с требованиями](https://docs.google.com/document/d/15pSlXUOqqNi0psEkm05gWZyWbcrrFjsX/edit?usp=sharing&ouid=109648988346956211033&rtpof=true&sd=true)**
@@ -57,37 +76,36 @@ _Меня зовут Елена и я рада, что Вы заглянули �
 
 **[Jmeter](https://drive.google.com/drive/folders/1xYTAAZVNzvnLAbqxxMbqB6RALpleNIia?usp=sharing)** 
 
-Задание 
-##### Руководитель планирует запустить проект в закрытое бета-тестирование. В закрытом тестировании будут участвовать члены семьи руководителя, включая бабушку. Поэтому нам нужно проверить, выдержит ли наша анкета одновременную работу 15 человек, или кому-то придётся пить кофе, пока остальные тестируют.
-##### Ссылка на анкету - http://zayavka-na-kartu-3.sdew.ru/
-Задача:
+**[SQL](https://drive.google.com/drive/folders/17G88Ka7Dk5BwR5Wagno3tJ7qEfvGthrs?usp=sharing)** (PostgreSQL)
 
-При помощи JMeter создайте профиль нагрузки
-Запустите одновременно 15 потоков.
-Предоставьте отчёт о результатах запуска.
+**[Логи](https://drive.google.com/drive/folders/1H-iscqFSlq16c6Pnp5E1xhhBfhJcfv2C?usp=sharing)** (Kibana)
 
-Результат задания: 
-три файла-картинки со скриншотами, которые должны отображать:
+**[Консоль Linux](https://drive.google.com/drive/folders/1yJ_gYGupupyv6xczkkpO-qS9rVvVcWrZ?usp=sharing)** 
 
-1.	Request файл; 
-2. Thread файл; 
-3. Listener файл
+_____________
 
-**[Postman + jira](https://drive.google.com/drive/folders/1j8C1rzHK_7LjCV5GFbC-r1smFy6PtqA9?usp=sharing)** (баг-репорты)
 
-Задание
-В ходе тестирования проекта разработчики бекенда обнаружили, что данные, которые приходят на сервер при отправке формы не такие, какие они должны были получить. Разработчики просят протестировать API самостоятельно и задокументировать проблемы для того, чтобы они их смогли исправить.
-Задача: Используя инструмент Postman, найти баги. 
-Результат задания: скриншоты баг-репорты Jira  + скриншоты Postman . 
+### 🌱В процессе изучения🌱
 
-**Java** 🌱(пока так, но я в процессе изучения)
 
-https://github.com/QALevina/DZ-7.1.git
 
-https://github.com/QALevina/DZ-8.1.git
+https://github.com/QALevina/DZ-7.1.git <br />
+https://github.com/QALevina/DZ-8.1.git <br />
+https://github.com/QALevina/DZ_9.1.git <br />
 
-https://github.com/QALevina/DZ_9.1.git
 
+<br /><br />
+
+
+### <b>Сертификаты</b>
+  
+<img align="left" alt="Ручное_тестирование_web" height="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />
+
+![Ручное тестирование web](https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png)
+
+![Основы SQL](https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg)
+
+![Системы менеджмента качества](https://github.com/QALevina/QALevina/blob/main/img/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.jpg)
 
 
 <!--
