@@ -110,13 +110,13 @@ https://github.com/QALevina/DZ_9.1.git <br />
 ### <b>Сертификаты</b>
 
   
-<img align="left" alt="Ручное_тестирование_web" height="222px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />
+<img align="left" alt="Ручное_тестирование_web" height="300px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />
  
-<img align="left" alt="JAVA" height="222px" src="https://github.com/QALevina/QALevina/blob/main/img/Java.png" />  
+<img align="left" alt="JAVA" height="300px" src="https://github.com/QALevina/QALevina/blob/main/img/Java.png" />  
  
-*<img align="left" alt="Основы SQL" height="222px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg" />
+<img align="left" alt="Основы SQL" height="300px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg" />
  
-<img align="left" alt="Основы GIT" height="222px" src="https://github.com/QALevina/QALevina/blob/main/img/Git.png" />
+<img align="left" alt="Основы GIT" height="300px" src="https://github.com/QALevina/QALevina/blob/main/img/Git.png" />
   
   <p><br/>
  
