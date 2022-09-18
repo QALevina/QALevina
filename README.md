@@ -50,13 +50,13 @@ _Теория тестирования пройдена успешно._
 <img align="left" alt="JSON" width="77px" src="https://avatars.mds.yandex.net/i?id=cbf6ee16117fcbeffb110b3f9217e96f-6208942-images-thumbs&n=13" />
 <img align="left" alt="HML" width="77px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
 <img align="left" alt="jmeter" width="77px" src="https://jmeter.apache.org/images/jmeter_square.png" />
+<img align="left" alt="Kibana" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" /> 
 <br />
 <br />
 <br />
 <p><br /><br /> 
 <img align="left" alt="linux" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="bash" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<img align="left" alt="Kibana" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" />
 <img align="left" alt="DOCKER" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br />
 
@@ -110,13 +110,13 @@ https://github.com/QALevina/DZ_9.1.git <br />
 ### <b>Сертификаты</b>
 
   
-<img align="left" alt="Ручное_тестирование_web" height="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />
+<img align="left" alt="Ручное_тестирование_web" height="222px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />
  
-<img align="left" alt="JAVA" height="333px" src="https://github.com/QALevina/QALevina/blob/main/img/Java.png" />  
+<img align="left" alt="JAVA" height="222px" src="https://github.com/QALevina/QALevina/blob/main/img/Java.png" />  
  
-*<img align="left" alt="Основы SQL" height="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg" />
+*<img align="left" alt="Основы SQL" height="222px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg" />
  
-<img align="left" alt="Основы GIT" height="333px" src="https://github.com/QALevina/QALevina/blob/main/img/Git.png" />
+<img align="left" alt="Основы GIT" height="222px" src="https://github.com/QALevina/QALevina/blob/main/img/Git.png" />
   
   <p><br/>
  
