@@ -23,29 +23,37 @@ _Теория тестирования пройдена успешно._
 <img align="left" alt="MVN" height="77px" src="https://avatars.mds.yandex.net/i?id=80b63883cea03788b521e34407999e98_sr-4321889-images-thumbs&n=13" />
 <img align="left" alt="Gradle" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1738/Gradle.jpg" />
 <img align="left" alt="JUNIT5" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1739/junit5-logo.png" />
-<img align="left" alt="Selenium" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1202/big-logo.png" />
-<img align="left" alt="Selenide" height="77px" src="https://miro.medium.com/max/846/1*_HsEkNr93MvVVzkrzKppGA.png" />
-<img align="left" alt="HTML" height="77px" src="https://avatars.mds.yandex.net/i?id=a334dba42d1e607f8e8bae219528438c-5501353-images-thumbs&n=13" />
 <br />
 <br />
 <br />
 <p><br /><br />
+<img align="left" alt="Selenium" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1202/big-logo.png" />
+<img align="left" alt="Selenide" height="77px" src="https://miro.medium.com/max/846/1*_HsEkNr93MvVVzkrzKppGA.png" />
+<img align="left" alt="HTML" height="77px" src="https://avatars.mds.yandex.net/i?id=a334dba42d1e607f8e8bae219528438c-5501353-images-thumbs&n=13" />
 <img align="left" alt="git" height="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" height="77px" src="https://avatars.mds.yandex.net/i?id=a92cb9edcadde647f37c05c658d613e4-5252146-images-thumbs&n=13" />
+<br />
+<br />
+<br />
+<p><br /><br />
 <img align="left" alt="devtols" height="77px" src="https://blog-cdn.domaincer.com/blog/wp-content/uploads/2021/07/24091619/images-3.png" />
 <img align="left" alt="jira" width="77px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="sql" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="postgresql" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MySQL" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Rest API" width="77px" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />
- <br />
- <br />
- <br />
+<br />
+<br />
+<br />
 <p><br /><br />
+<img align="left" alt="Rest API" width="77px" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />
 <img align="left" alt="Postman" width="77px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
 <img align="left" alt="JSON" width="77px" src="https://avatars.mds.yandex.net/i?id=cbf6ee16117fcbeffb110b3f9217e96f-6208942-images-thumbs&n=13" />
 <img align="left" alt="HML" width="77px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
 <img align="left" alt="jmeter" width="77px" src="https://jmeter.apache.org/images/jmeter_square.png" />
+<br />
+<br />
+<br />
+<p><br /><br /> 
 <img align="left" alt="linux" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="bash" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Kibana" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" />
