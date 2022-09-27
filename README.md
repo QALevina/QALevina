@@ -72,8 +72,7 @@ _Меня зовут Елена и я рада, что Вы заглянули �
     <td><br><img align="left"alt="OK"width="33px"src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true"/><a href="https://github.com/QALevina/Selenium.git">Selenium</a>(
     webdriver manager+cssSelector)<br/><br/></td>
  <td><br><img align="left"alt="OK"width="33px"src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true"/><a href="https://github.com/QALevina/Selenide.git">Selenide</a>(XPath)<br/><br/></td>
- <td><br><img align="left"alt="OK"width="33px"src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true"/><a href=""></a><b>Docker</b>(
-    в процессе)<br/><br/></td>
+ <td><br><img align="left"alt="OK"width="33px"src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true"/><a href="https://github.com/QALevina/Patterns1.git"><b>DataGenerator</b></a>(Faker, Lombok)<br/><br/></td>
 </tr>
     <tr>
     <td><br><img align="left"alt="OK"width="33px"src="https://github.com/QALevina/QALevina/blob/main/img/check-60.png?raw=true"/><a href="https://github.com/QALevina/DZ-7.1.git">Java</a>(Циклы,массивы)<br/><br/></td>
