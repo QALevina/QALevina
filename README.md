@@ -110,12 +110,15 @@ _____________
   
 **<img align="left" alt="Ручное_тестирование_web" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1%20(%D1%81%D0%B2-%D0%B2%D0%BE).png" />**
 
-**<img align="left" alt="WEB" height="277px" src="https://stepik.org/cert/1768834" />**
+**<img align="left" alt="WEB" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/WEB.png" />**
+
+**<img align="left" alt="Основы SQL" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg" />**
+**<img align="left" alt="Тренажер SQL" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/sql_stepik.png" />**
  
+**<img align="left" alt="Postman_Stepik" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/Postman_stepik.png" />**
 **<img align="left" alt="JAVA" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/Java.png" />**
 
 
-**<img align="left" alt="Основы SQL" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.jpg" />**
  
 **<img align="left" alt="Основы GIT" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/Git.png" />**
   
