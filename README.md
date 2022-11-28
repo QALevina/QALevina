@@ -123,9 +123,9 @@ _____________
 **<img align="left" alt="Основы GIT" height="277px" src="https://github.com/QALevina/QALevina/blob/main/img/Git.png" />**
   
  
-<img align="left" alt="Системы менеджмента качества" width="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.jpg" />
+**<img align="left" alt="Системы менеджмента качества" width="333px" src="https://github.com/QALevina/QALevina/blob/main/img/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.jpg" />**
    
-
+**<b>Stepik</b> <a href="https://stepik.org/users/480629521?preview=tru">мой профиль</a>**
 
 <!--
 **QALevina/QALevina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
