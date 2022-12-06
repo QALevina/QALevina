@@ -22,7 +22,7 @@ _Меня зовут Елена и я рада, что Вы заглянули �
 <img align="left" alt="MVN" height="77px" src="https://avatars.mds.yandex.net/i?id=80b63883cea03788b521e34407999e98_sr-4321889-images-thumbs&n=13" />
 <img align="left" alt="Gradle" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1738/Gradle.jpg" />
 <img align="left" alt="JUNIT5" height="77px" src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1739/junit5-logo.png" />
-<img align="left" alt="linux" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="android" width="77px" src="https://github.com/QALevina/QALevina/blob/main/img/android-studio.png" />
 <br />
 <br />
 <br />
@@ -53,6 +53,7 @@ _Меня зовут Елена и я рада, что Вы заглянули �
 <img align="left" alt="HML" width="77px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
 <img align="left" alt="jmeter" width="77px" src="https://jmeter.apache.org/images/jmeter_square.png" />
 <img align="left" alt="Kibana" width="77px" src="https://netbears.com/assets/img/articles/kibana-cluster-ubuntu/kibana700.png" /> 
+<img align="left" alt="linux" width="77px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />    
 
 <br />
 
